@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbarkah
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Network, Data Science & Analytics, Web Develoved
+- 👀 I’m interested in IT Technology
+- 🌱 I’m currently learning Network, Data Science & Analytics, Software Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
